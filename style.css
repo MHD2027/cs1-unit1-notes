@@ -1,1 +1,16 @@
+/*this is a CSS COMMENT */
+/* Select by element TYPE */
+p {
+   
+    color : rgb(40, 167, 167);
+}  
 
+/* Select by CLASS name */ 
+.border {
+    border: 2px solid black;
+}
+
+/* Select by ID name */
+#intro {
+    background-color: aqua;
+}
