@@ -2,15 +2,34 @@
 /* Select by element TYPE */
 p {
    
-    color : rgb(40, 167, 167);
+    color : rgb(209, 3, 255);
 }  
-
+h1, h2, h3 { 
+    font-family :Arial, Helvetica, sans-serif;
+}
 /* Select by CLASS name */ 
 .border {
-    border: 2px solid black;
+    border: 2px solid rgb(255, 0, 157);
+    background-color: rgb(254, 207, 226);
 }
 
 /* Select by ID name */
 #intro {
-    background-color: aqua;
+    background-color: rgb(247, 179, 219);
+}
+
+/* Properties: colors and typograohy */
+
+strong {
+    color: rgb(210, 134, 198); 
+    background-color:deeppink;
+
+
+    font-weight; 100;
+    font-style: italic;
+
+}
+
+h1 {
+    text-align: center;
 }
